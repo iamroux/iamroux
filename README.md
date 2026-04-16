@@ -27,16 +27,16 @@
   <summary><span style="font-size: 2.5rem;"></span></summary>
   <br>
 
-  <img src="https://raw.githubusercontent.com/saqibmir1/saqibmir1/refs/heads/output/github-user-contribution.svg" alt="GitHub Snake"/>
+  <img src="https://raw.githubusercontent.com/iamroux/iamroux/refs/heads/output/github-user-contribution.svg" alt="GitHub Snake"/>
 
   <br><br>
 
   <p>
   <samp>
-    [<a href="https://saqibmir1.github.io">website</a>]
+    [<a href="https://iamroux.github.io">website</a>]
     [<a href="https://t.me/sisyphusbutsus">Telegram</a>]
     [<a href="mailto:saqibmdmir@gmail.com">e-mail</a>]
-    [<a href="https://saqibmir1.github.io/saqib.gpg">gpg</a>]
+    [<a href="https://iamroux.github.io/saqib.gpg">gpg</a>]
   </samp>
 </p>
 
