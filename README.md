@@ -33,7 +33,7 @@
 
   <p>
   <samp>
-    [<a href="https://iamroux.github.io">website</a>]
+    [<a href="https://saqibmir.site">website</a>]
     [<a href="https://t.me/sisyphusbutsus">Telegram</a>]
     [<a href="mailto:saqibmdmir@gmail.com">e-mail</a>]
     [<a href="https://iamroux.github.io/saqib.gpg">gpg</a>]
