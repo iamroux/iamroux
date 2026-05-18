@@ -3,7 +3,7 @@
     <b>
       Hello There!
     <br>
-      I'm Saqib (I use Arch btw)
+      I'm roux. (I use Arch btw)
     </b>
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&duration=800&pause=2000&lines=Who+made+that+mess...;I+made+the+mess%3F" alt="Typing SVG">
