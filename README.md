@@ -6,7 +6,7 @@
       I'm roux. (I use Arch btw)
     </b>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&duration=800&pause=2000&lines=Who+made+that+mess...;I+made+the+mess%3F" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?color=00ffa5&font=Iosevka+medium&size=19&center=true&duration=5000&pause=50&lines=I+am+a+%F0%9F%A6%81+%F0%9F%8D%95+%F0%9F%90%93+%E2%80%BC%EF%B8%8F" alt="Typing SVG">
     <br>
     <b>
       ~ Saqib Mir ~
